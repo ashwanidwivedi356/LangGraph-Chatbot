@@ -1,0 +1,6 @@
+langgraph==0.0.24
+langchain-core==0.1.16
+openai
+tiktoken
+streamlit
+python-dotenv
